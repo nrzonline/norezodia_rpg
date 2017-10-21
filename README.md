@@ -1,5 +1,8 @@
 # norezodia_rpg
 
+Project result video:  
+https://www.youtube.com/watch?v=ybj8ZyYmCFc
+
 NoReZodia was an experimental RPG Game project in Java to learn the language
 and dates from around ~2013/2014
 The game has been build from scratch, no frameworks were used. I have got the
