@@ -12,9 +12,10 @@ Current features build in the game for as far as I can remember:
 - Module monitors to display developers data
 - Engine controls FPS and tickrate
 - A* Pathfinder for player and monsters
+- Non-walking area collision
 - Ingame world editor supporting multiple map layers, spritesheets etc.
 - Basic player versus environment combat
-- Basic Graphical User Interface
+- Basic Graphical User Interface with experience bar
 - Player data is saved as Serialized data
 - The ability to die and respawn during combat
 - Custom graphics / sprites / etc
